@@ -1,0 +1,38 @@
+{
+  "name": "JALAN MENUJU SURGA",
+  "short_name": "PT. JMS",
+  "start_url": "https://www.jalanmenujusurga.com",
+  "display": "standalone",
+  "background_color": "#0c54c2",
+  "theme_color": "#424a56",
+  "description": "",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s48/Logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s72/Logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s96/Logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s144/Logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s168/Logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s192/Logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_7uYSY8AcB4/XodsGRA2FxI/AAAAAAAAApg/SDT-1NxqRoMiuj9fW0ABVFZARfyqKIFiACLcBGAsYHQ/s512/Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
